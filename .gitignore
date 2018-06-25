@@ -10,3 +10,4 @@ _config.yml
 *.md
 !README.md
 Gemfile.lock
+Gemfile
