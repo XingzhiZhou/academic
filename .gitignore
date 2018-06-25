@@ -1,2 +1,12 @@
-
-Gemfile
+*.gem
+*.sh
+assets/img
+assets/favicons
+.bundle
+.sass-cache
+_site
+_posts
+_config.yml
+*.md
+!README.md
+Gemfile.lock
