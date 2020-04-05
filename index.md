@@ -5,4 +5,4 @@ order: 1
 ---
 Welcome to my homepage!
 
-I am Xingzhi Zhou, a master student majored in Artificial Intelligence at [Tokyo Institute of Technology](https://www.titech.ac.jp/english/), advised by Prof. [Tsuyoshi Murata](http://www.net.c.titech.ac.jp/index.html). My current research interest is applying matrix factorization on network mining, especially interesed in heterogeneous networks.
+I am Xingzhi Zhou, the 1st year PhD student at HKUST working with Prof. Nevin L. Zhang. 
